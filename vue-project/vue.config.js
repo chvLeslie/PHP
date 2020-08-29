@@ -26,7 +26,7 @@ module.exports = {
             'vue-router': "VueRouter",
             vuex: "Vuex",
             axios: 'axios'
-        } : {}
+        } : {} 
     },
     css: {
         loaderOptions: {
